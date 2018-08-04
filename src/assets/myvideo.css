@@ -1,0 +1,24 @@
+.eyevideo{
+    margin-top: 1rem;
+    width: 100%;
+    height: 3rem;
+}
+.video-player{
+    width: 100%;
+    height: 3rem;
+}
+.video-js .vjs-big-play-button{
+    height: 2em;
+    width: 2em;
+    line-height: 2em;
+    border-radius: 1em;
+}
+.vjs-custom-skin > .video-js{
+    width: 100%;
+    height: 4rem;
+    border-bottom: 0.12rem solid #DF4239;
+    border-radius: 0.12rem;
+}
+.vjs-custom-skin > .video-js .vjs-big-play-button{
+    left: 54%;
+}
